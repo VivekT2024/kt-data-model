@@ -1,12 +1,12 @@
 package com.vivekt.ktpp.datamodel;
 
 
-import lombok.Builder;
-import lombok.Data;
-import lombok.Getter;
+import lombok.*;
 
 @Data
 @Builder
+@AllArgsConstructor
+@NoArgsConstructor
 public class Order {
 
     String orderId;
