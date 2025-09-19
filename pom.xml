@@ -5,7 +5,7 @@
 
     <groupId>com.vivekt</groupId>
     <artifactId>kt-data-model</artifactId>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <name>kt-data-model</name>
     <description>Data model for ktpp apps</description>
     <url/>
